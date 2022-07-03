@@ -1,3 +1,3 @@
 # Slider-SignIn-SignUp
 
-Live Demo [Click]
+Live Demo [Click here]
